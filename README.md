@@ -3,7 +3,7 @@ automatic make quantify excel and word
 
 ## 视频教程
 
-
+https://www.bilibili.com/video/BV1bY411M7KN/
 
 ## 格式安排
 list.txt
