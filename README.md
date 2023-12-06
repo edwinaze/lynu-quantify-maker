@@ -1,5 +1,5 @@
-# quantify-maker
-automatic make quantify excel and word
+# quantization-maker
+For the LYNU(Luoyang Normal University)'s commissary in charge of studies who didn't want solve trying quantify works, automatic make quantization excel and word
 
 ## 视频教程
 
